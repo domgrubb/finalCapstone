@@ -1,0 +1,10 @@
+Project name: Object-oriented Programming
+
+Creates new class (Shoe), prompts user for commands to edit text file acting as database for shoes. Able to calculate the value of stock, identify shoe
+most in stock (to potentially put on sale), search by each attribute of Shoe.
+
+No additional libraries required to run, only imports os and sys upon running. Text file containing initial shoe database required to be in the same local
+directory as where the project file is however.
+
+Usng the project should be as simple as running the code, upon which the shell will list available options and give the character associated with each command.
+Simply enter the character required. Make sure to enter "e" to close the program.
